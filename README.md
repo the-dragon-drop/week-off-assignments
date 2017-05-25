@@ -1,4 +1,4 @@
-#Week Off Assignments
+# Week Off Assignments
 
 
 You have many days off to bulk up your coding skills or forget some valuable ones that you worked so hard to remember. Remember that code must be practiced or it quickly goes away at this stage of your learning.
@@ -12,7 +12,7 @@ Here are some things you can do to keep moving forward.
 3. Breathe, it's all going to be ok.
 
 
-###Assess where you are
+### Assess where you are
 
 - Do you need to solidify Basic Ruby? 
   - classes
@@ -31,7 +31,7 @@ Here are some things you can do to keep moving forward.
 
 Before you look at the exercises, make a choice. What do you need to work on most? You could put these into priority of first, second and third. Then look through the listed exercises below. **REMEMBER: You don't have enough time to do it all, so pick something to work on but don't aim for the goal of doing everything. Instead make sure that you are using your time wisely.**
 
-###Exercises
+### Exercises
 
 1 - Tic Tac Toe (Ai)*
 
