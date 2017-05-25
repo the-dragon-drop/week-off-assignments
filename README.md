@@ -33,19 +33,19 @@ Before you look at the exercises, make a choice. What do you need to work on mos
 
 ### Step 2 - Exercises
 
-##### 1 - Tic Tac Toe (Ai)*
+#### 1 - Tic Tac Toe (Ai)*
 
 For: practice on Ruby, Advanced challenge
 
 There is a folder called `tic-tac-toe-ai`, this project is based off a real coding interview question. This style of interview would be given to you in a paragraph discription and you would return your code in 24 hours, 48 hours, or a week depending on how hard it is. These are very challenging the first time you do them. I have started this one for you, and have given basic structure to start you out. You do not need to keep any particular part but the structure is disigned to make it easier in the end. The point of this exercise is to see how far you can get, analyze your process of solving the problem. Do you spend too much time or not enough time on planning? How easy it to read the code that already exists? how dry is your code? Do you need to add classes? Are your methods handling many tasks and would it be easier if they are broken into smaller tasks? 
 
-##### 2 - Complete any missing Daily problems
+#### 2 - Complete any missing Daily problems
 
 For: practice on Ruby, focus on algorithm logic
 
 When solving these problems start with about 10 minutes of planning before jumping into code. Break down the big problem into smaller steps (think of the 'how do you make a peanut butter and jelly sandwich' example). Write out the steps in normal person (muggle) english. Refrain from words like 'each', 'iterate', 'loop', 'define', 'variable', 'string', 'integer', 'object', 'method', etc. Once you have listed them on a document or piece of paper in order, start translating them into ruby code.
 
-##### 3 - My Craigslist
+#### 3 - My Craigslist
 
 For: practice with rails, walking through building an app from start to finish.
 
@@ -63,19 +63,19 @@ Make a new rails app, that replicates the basic functions of Craiglist without l
 - a user should be able to respond to people interested in their item.
 - you can try to get as close to Craigslist's design or you can improve on it with bootstrap.
 
-##### 4 - Basic CRUD app from scratch
+#### 4 - Basic CRUD app from scratch
 
 For: practicing with rails conventions, simple version
 
 Pick any noun, create an app with the 7 restful routes, 7 controller actions and 4 views for that noun. Keep to very strict restful routing conventions and work on forming good habits, best practices, and orgainization as you code.
 
-##### 5 - Javascript Code School
+#### 5 - Javascript Code School
 
 For: Getting ahead on Frontend and Javascript, Which we will be covering in class a week after you get back. 
 
 Get as far as you can through [Javascript RoadTrip Parts 1, 2, and 3](https://www.codeschool.com/courses/javascript-road-trip-part-1). It does cost money, but not a lot and it's got some fun songs, jokes, etc.
 
-##### 6 - Review and Catch Up
+#### 6 - Review and Catch Up
 
 For: getting caught up and review of what we've covered so far.
 
