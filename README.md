@@ -51,6 +51,8 @@ Working in ruby alone makes you focus more on the tools that ruby gives you and 
 
 I have included a folder called [tic-tac-toe-ai](/tic-tac-toe-ai), this project is based off a real coding interview question. This style of interview would normally be given to you in a paragraph discription and you would return your code in 24 hours, 48 hours, or a week depending on how hard it is. These are very challenging the first time you do them, the more you practice they easier it gets. I have started this one for you, and have given basic structure to start you out. You do not need to keep any particular part but the structure is disigned to make it easier in the end. The point of this exercise is to see how far you can get, analyze your process of solving the problem. Do you spend too much time or not enough time on planning? How easy it to read the code that already exists? how dry is your code? Do you need to add classes? Are your methods handling many tasks and would it be easier if they are broken into smaller tasks? 
 
+--------------------------------------------------
+
 #### 2 - Complete Any Missing Daily Problems
 
 For: practice on Ruby, focus on algorithm logic
@@ -59,6 +61,8 @@ When solving these problems start with about 10 minutes of planning before jumpi
 
 * Use [Ruby Docs](http://ruby-doc.org/) to research new factory methods.
 * Review [Getting Unstuck Video](https://drive.google.com/a/anyonecanlearntocode.com/file/d/0B0F6BfZrQEBebE0wdTBlRl9YNlU/view?usp=sharing)
+
+--------------------------------------------------
 
 #### 3 - My Craigslist
 
@@ -80,6 +84,8 @@ Make a new rails app, that replicates the basic functions of Craiglist without l
 You will want to create a schema for your database before `rails new`. Think through the flow a user will travel through the site page by page.
 
 You can try to get as close to Craigslist's design or you can improve on it with bootstrap.
+
+--------------------------------------------------
 
 #### 4 - Basic CRUD App From Scratch
 
@@ -104,11 +110,15 @@ Pick any noun, create an app with the 7 restful routes, 7 controller actions and
 * Show
 * Edit form
 
+--------------------------------------------------
+
 #### 5 - Javascript Code School
 
 For: Getting ahead on Frontend and Javascript, Which we will be covering in class a week after you get back. 
 
 Get as far as you can through [Javascript RoadTrip Parts 1, 2, and 3](https://www.codeschool.com/courses/javascript-road-trip-part-1). It does cost money, but not a lot and it's got some fun songs, jokes, etc.
+
+--------------------------------------------------
 
 #### 6 - Review and Catch Up
 
