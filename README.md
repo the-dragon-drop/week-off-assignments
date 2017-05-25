@@ -12,7 +12,8 @@ Here are some things you can do to keep moving forward.
 3. Breathe, it's all going to be ok.
 
 
-==================================================
+--------------------------------------------------
+--------------------------------------------------
 
 
 ### Step 1 - Assess where you are
@@ -34,7 +35,8 @@ Here are some things you can do to keep moving forward.
 
 Before you look at the exercises, make a choice. What do you need to work on most? You could put these into priority of first, second and third. Then look through the listed exercises below. **REMEMBER: You don't have enough time to do it all, so pick something to work on but don't aim for the goal of doing everything. Instead make sure that you are using your time wisely.**
 
-==================================================
+--------------------------------------------------
+--------------------------------------------------
 
 
 ### Step 2 - Exercises
