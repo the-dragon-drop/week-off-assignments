@@ -93,7 +93,7 @@ You can try to get as close to Craigslist's design or you can improve on it with
 
 For: practicing with rails conventions, simple version
 
-Pick any noun, create an app with the 7 restful routes, 7 controller actions and 4 views for that noun. Keep to very strict restful routing conventions and work on forming good habits, best practices, and orgainization as you code.
+Pick any noun, create an app with that noun as a model with appropriate attributes(limit to 2 to 5), the controller with the same name, the 7 restful routes, 7 controller actions and 4 views for that noun. Keep to very strict restful routing conventions and work on forming good habits, best practices, and orgainization as you code.
 
 * have the [restful routes table](http://guides.rubyonrails.org/routing.html) nearby. Try to memorize before the end of the week. (each route's verb, url, name, and purpose)
 
